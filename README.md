@@ -54,6 +54,8 @@ The predicted sales value will be displayed on the app.
 Model Information
 The app uses a machine learning model that has been trained to predict sales. The model components are loaded from the export directory during app startup. The model was trained on historical sales data.
 
-Please note that this app is for demonstration purposes and should not be used for critical decision-making without further validation.
-
 For any questions or issues, feel free to reach out to the project maintainers. Thank you for using the Sales Prediction App!
+## Author
+SHIMWA Agape Valentin 
+### email
+savalentin75@gmail.com
