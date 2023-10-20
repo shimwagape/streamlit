@@ -8,12 +8,12 @@ To use this app and make predictions, follow the steps below:
 First, clone this repository to your local machine. You can do this by running the following command in your terminal or command prompt:
 
 
-git clone <repository-url>
+git clone <https://github.com/shimwagape/streamlit.git>
 ## 2. Navigate to the Project Directory
 Change your working directory to the project folder:
 
 
-cd <project-folder>
+cd <streamlit>
 ## 3. Install Required Dependencies
 Make sure you have the required Python packages installed. You can install them using pip by running:
 
